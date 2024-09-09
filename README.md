@@ -6,7 +6,7 @@ impl Yifan {
             email: "0219lyf@gmail.com",
             education: Education {
                 bachelor: Degree("Northwest A&F University", "Software Engineering", 2018..=2022),
-                master: Degree("Northwestern Polytechnical University", ""Software Engineering", 2024..=2027),
+                master: Degree("Northwestern Polytechnical University", "Software Engineering", 2024..=2027),
             },
         }
     }
